@@ -1,0 +1,16 @@
+C:\Users\Giovanni\source\repos\Ejemplo__2\Ejemplo__2\bin\Debug\Ejemplo__2.exe.config
+C:\Users\Giovanni\source\repos\Ejemplo__2\Ejemplo__2\bin\Debug\Ejemplo__2.exe
+C:\Users\Giovanni\source\repos\Ejemplo__2\Ejemplo__2\bin\Debug\Ejemplo__2.pdb
+C:\Users\Giovanni\source\repos\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\source\repos\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.exe
+C:\Users\Giovanni\source\repos\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.pdb
+C:\Users\Giovanni\Documents\Csharp\Ejemplo__2\Ejemplo__2\bin\Debug\Ejemplo__2.exe.config
+C:\Users\Giovanni\Documents\Csharp\Ejemplo__2\Ejemplo__2\bin\Debug\Ejemplo__2.exe
+C:\Users\Giovanni\Documents\Csharp\Ejemplo__2\Ejemplo__2\bin\Debug\Ejemplo__2.pdb
+C:\Users\Giovanni\Documents\Csharp\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.csproj.AssemblyReference.cache
+C:\Users\Giovanni\Documents\Csharp\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\Documents\Csharp\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Documents\Csharp\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.exe
+C:\Users\Giovanni\Documents\Csharp\Ejemplo__2\Ejemplo__2\obj\Debug\Ejemplo__2.pdb
